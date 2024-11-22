@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b35c4c8d-e5e8-4eaa-90fa-33b380182b40" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../WebProject/oopJS/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../WebProject/oopJS/home.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../netbeansJava/OOP/2D Animation/src/MyFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../netbeansJava/OOP/2D Animation/src/MyPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../netbeansJava/OOP/2D graphics/src/MyFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../netbeansJava/OOP/2D graphics/src/MyPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../netbeansJava/OOP/JColorChooser/src/MyFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../netbeansJava/OOP/JProgressBar/src/progressBar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../netbeansJava/OOP/JRedioButton/src/MyFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../netbeansJava/OOP/JSlider/src/MySlider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../netbeansJava/OOP/KeyBinding/src/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../netbeansJava/OOP/KeyListener/src/MyFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../netbeansJava/OOP/Menubar/src/MyFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../netbeansJava/OOP/drog and drop/src/MyFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../netbeansJava/OOP/drog and drop/src/dragpanel.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="2pDPBLX8ZRcfIgQxO2lHOfqSxSO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/dimut/Dimuthu/Java project/banking"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b35c4c8d-e5e8-4eaa-90fa-33b380182b40" name="Changes" comment="" />
+      <created>1732297535631</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1732297535631</updated>
+    </task>
+    <servers />
+  </component>
+</project>
